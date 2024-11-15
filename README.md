@@ -12,14 +12,6 @@ Olá! Eu sou a **Evelyn**, tenho **17 anos** e sou estudante de **Técnico em An
 
 Tenho uma enorme paixão por **desenvolvimento de software** e acredito que a tecnologia pode mudar o mundo. Meu foco está em criar soluções práticas que proporcionem uma excelente experiência ao usuário. Gosto de aprender novas tecnologias e estou sempre em busca de novos desafios que me ajudem a crescer como desenvolvedora.
 
-## 🚀 Objetivo
-
-Estou à procura de **oportunidades de estágio** e **projetos freelancer** onde possa aplicar meus conhecimentos e continuar aprendendo. Estou disposta a contribuir com novas ideias e ajudar em projetos inovadores.
-
-## 📬 Vamos nos conectar!
-
-Se você está procurando alguém motivada, com paixão por **tecnologia** e sempre em busca de aprendizado, vamos conversar! Adoraria explorar novas oportunidades e desafios no mundo da **tecnologia**.
-
 ---
 
 **Você pode me encontrar em:**
