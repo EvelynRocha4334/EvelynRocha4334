@@ -16,4 +16,4 @@ Tenho uma enorme paixão por **desenvolvimento de software** e acredito que a te
 
 **Você pode me encontrar em:**
 
-- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/evelyn-rocha-1391232b5/))
+[LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/evelyn-rocha-1391232b5/))
