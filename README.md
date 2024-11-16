@@ -1,4 +1,4 @@
-# Evelyn
+# Evelyn <img align="center" width="60px" heigth="40px" src="https://i.pinimg.com/originals/a5/7b/f9/a57bf940269ffbf167f8b0c5fd50315c.gif">
 
 Olá! Eu sou a **Evelyn**, tenho **17 anos** e sou estudante de **Técnico em Análise e Desenvolvimento de Sistemas** no **SENAI Henrique Lupo**. Sou apaixonada por **tecnologia**, especialmente no desenvolvimento **front-end** e na área de **SQL**. 
 
