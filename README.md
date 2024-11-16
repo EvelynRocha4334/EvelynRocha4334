@@ -5,8 +5,9 @@ Olá! Eu sou a **Evelyn**, tenho **17 anos** e sou estudante de **Técnico em An
 ## 🛠️ Habilidades
 
 - **Front-End**: Experiência em **HTML**, **CSS** e **JavaScript** para criar interfaces de usuário funcionais e responsivas.
+- **Figma**: Experiência em **prototipagem com Figma**
 - **SQL**: Manipulação de **bancos de dados** e criação de **consultas SQL** para gerenciar e analisar dados.
-- **Python**: Conhecimentos em **Python** para automação, análise de dados e desenvolvimento de soluções simples.
+- **Python**: Conhecimentos em **Python** para desenvolvimento back-end.
 
 ## 💡 O que me motiva
 
