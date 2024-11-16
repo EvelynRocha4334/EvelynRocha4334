@@ -1,4 +1,4 @@
-# Evelyn - Desenvolvedora em Formação
+# Evelyn
 
 Olá! Eu sou a **Evelyn**, tenho **17 anos** e sou estudante de **Técnico em Análise e Desenvolvimento de Sistemas** no **SENAI Henrique Lupo**. Sou apaixonada por **tecnologia**, especialmente no desenvolvimento **front-end** e na área de **SQL**. 
 
@@ -14,6 +14,6 @@ Tenho uma enorme paixão por **desenvolvimento de software** e acredito que a te
 
 ---
 
-**Você pode me encontrar em:**
+
 
 
